@@ -2356,4 +2356,10 @@ module.exports = [
     name: "JIL",
     icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
    },
+   {
+    contract: "terra17tr43u9je863jd4ppt40rhuh78twdqef3v76mc7qc4fkfaa7c59szu0npv",
+    protocol : "MAKE AMERICA GREAT AGAIN",
+    name: "MAGA",
+    icon: "https://i.ibb.co.com/SXC0mqr/MAGA.png",
+   },
 ]

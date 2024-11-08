@@ -2028,4 +2028,12 @@ module.exports = [
         icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
         decimal: 6,
     },
+    {
+        protocol: "MAKE AMERIKA GREAT AGAIN",
+        name: "MAGA",
+        symbol: "MAGA",
+        token: "terra17tr43u9je863jd4ppt40rhuh78twdqef3v76mc7qc4fkfaa7c59szu0npv",
+        icon: "https://i.ibb.co.com/SXC0mqr/MAGA.png",
+        decimal: 6,
+    },
 ]
